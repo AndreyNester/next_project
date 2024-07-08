@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-width: 1248px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.header{}
+
+.main{
+  flex: 1 1 auto;
+}
+
+.footer{}

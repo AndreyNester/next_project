@@ -1,0 +1,20 @@
+:root{
+  --dark-main-color: #000000;
+  --light-main-color: #FFFFFF;
+  --accent-color : #A18A68;
+  --secondary-color : #707070;
+
+  --light-main-bg-color : #FFFFFF;
+}
+
+html {
+  min-height: 100%;
+}
+
+body {
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+  background-color: var(--light-main-bg-color);
+}
+
