@@ -5,7 +5,7 @@
 
 Роуты :
 главная страница : my-domain/
-страница с карточаки : my-domain/products
+страница с карточками : my-domain/products
 траница с карточкой : my-domain/product
 корзина : my-domain/order
 описание продукта : my-domain/order/description
@@ -15,5 +15,5 @@
 регистрация : my-domain/register
 восстановление пароля : my-domain/login/resetpassword
 
-моя страница : авторизация : my-domain/[my-username]
+моя страница : my-domain/[my-username] или my-domain/profile
 о нас : my-domain/about

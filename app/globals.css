@@ -3,8 +3,15 @@
   --light-main-color: #FFFFFF;
   --accent-color : #A18A68;
   --secondary-color : #707070;
-
   --light-main-bg-color : #FFFFFF;
+
+  --xs-font-size : 7px;
+  --s-font-size : 12px;
+  --m-font-size : 14px;
+  --l-font-size : 16px;
+  --xl-font-size : 20px;
+  --xxl-font-size : 26px;
+  --xxxl-font-size : 33px;
 }
 
 html {

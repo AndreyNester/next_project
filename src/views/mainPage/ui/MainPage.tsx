@@ -1,5 +1,5 @@
 import { ReactNode } from 'react';
 
 export const MainPage = (): ReactNode => {
-	return <div>hella</div>;
+	return <div>main page</div>;
 };
